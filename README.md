@@ -20,4 +20,8 @@ Unityを使用してマイクラのようなマップの自動生成を試して
 <br>
 <hr>
 <h2>見どころ</h2>
-パーリンノイズを使用したマップの自動生成。
+パーリンノイズを使用したマップの自動生成。<br>
+
+![スクリーンショット 2025-01-17 013836](https://github.com/user-attachments/assets/4a34b285-61ac-4004-bc00-eb006e99c8ac)<br>
+smoothもかけれます<br>
+![image](https://github.com/user-attachments/assets/85e0ec96-f40f-4e30-8278-5836596dcf81)
